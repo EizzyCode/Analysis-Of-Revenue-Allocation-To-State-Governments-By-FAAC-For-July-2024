@@ -15,10 +15,10 @@ Statutory Revenue
 + Debts owed by each State
  
 ## PROJECT OVERVIEW
-**Understand Allocation Patterns:** Analyze how revenue is distributed across states.
-**Highlight Disparities:** Uncover the structural factors behind allocation differences.
-**Support Policy Reform:** Offer data-backed insights to inform a more balanced and fair revenue-sharing formula.
-**Empower Citizens:** Equip students, researchers, and the general public with the knowledge to question and engage with fiscal governance.
++ **Understand Allocation Patterns:** Analyze how revenue is distributed across states.
++ **Highlight Disparities:** Uncover the structural factors behind allocation differences.
++ **Support Policy Reform:** Offer data-backed insights to inform a more balanced and fair revenue-sharing formula.
++ **Empower Citizens:** Equip students, researchers, and the general public with the knowledge to question and engage with fiscal governance.
 
 ## DATASET
 _https://microdata.nigerianstat.gov.ng/index.php/catalog/156_
